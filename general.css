@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    font-family: Poppins,Arial, Helvetica, sans-serif;
+}
+.main-section{
+    display: flex;
+}
+.photo{
+    margin-left: 100px;
+    margin-top: 60px;
+}
+#main-photo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.intro{
+    margin-top: 90px;
+    margin-left: 10px ;
+}
+#hello{
+    text-align: center;
+    font-size: 10px;
+}
+#main-name{
+    text-align: center;
+    font-size: 30px;
+    font-style: bold;
+}
+#post{
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+}
+#cv{
+    border-radius: 30px;
+    padding: 8px;
+    background-color: transparent;
+}
+#contact-info{
+    border-radius: 30px;
+    padding: 8px;
+    background-color: black;
+    color: white;
+}
